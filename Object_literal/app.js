@@ -25,3 +25,14 @@ const item = {
 // item.discount
 // item.colors[0]
 // item.color[1]
+
+const obj = {
+    1: "a",
+    2: "b",
+    true: "c",
+    null: "d",
+    undefined: "e"
+};   
+//JS automatically converts object keys to strings
+//Even if the number is a key, it will be converted into a string, Not possible with a dot (.) operator
+//does'nt convert numbers directly into string, can use it for strings but not for numbers.
