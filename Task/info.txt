@@ -1,0 +1,6 @@
+Create an object literal for the properties of Thread/Twitter post which should include
+: username
+: content
+: likes
+: reposts
+: tags
