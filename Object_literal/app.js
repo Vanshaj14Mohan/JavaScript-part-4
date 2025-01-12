@@ -36,3 +36,21 @@ const obj = {
 //JS automatically converts object keys to strings
 //Even if the number is a key, it will be converted into a string, Not possible with a dot (.) operator
 //does'nt convert numbers directly into string, can use it for strings but not for numbers.
+
+//--------------------------------------------------------------------------------------------
+//Next how to add/update values in Object literals in JS.
+const detail = {
+    name: "Vanshaj",
+    age: 22,
+    marks: 95.5,
+    city: "Lucknow"
+}; 
+//now to change city name to mumbai 
+//detail.city = "Mumbai"
+//change marks to A
+// detail.marks = "A"
+// or we can make an array of marks
+// detail.marks = [90, 95, 92, 96]
+//to add any key, suppose, state
+// detail.state = "Uttar Pradesh"
+//now deleting it -> delete detail.state
