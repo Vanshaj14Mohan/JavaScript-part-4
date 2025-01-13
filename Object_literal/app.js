@@ -57,6 +57,7 @@ const detail = {
 //--------------------------------------------------------------------------------------------
 
 //Creating object of objects
+//to access values, studInfo.Aman, studInfo.Aman.city... 
 const studInfo = {
     Aman:{
         garde: "A",
@@ -75,3 +76,5 @@ const studInfo = {
         city: "Pune"
     }
 };
+
+//using aray of objects
