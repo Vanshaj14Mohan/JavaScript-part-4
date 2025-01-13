@@ -54,3 +54,24 @@ const detail = {
 //to add any key, suppose, state
 // detail.state = "Uttar Pradesh"
 //now deleting it -> delete detail.state
+//--------------------------------------------------------------------------------------------
+
+//Creating object of objects
+const studInfo = {
+    Aman:{
+        garde: "A",
+        city: "Delhi"
+    },
+    Naina:{
+        grade: "A+",
+        city: "Lucknow"
+    },
+    Rohit:{
+        grade: "B+",
+        city: "Bangalore"
+    },
+    Vijay:{
+        grade: "B",
+        city: "Pune"
+    }
+};
