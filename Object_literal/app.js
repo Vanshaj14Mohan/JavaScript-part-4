@@ -78,3 +78,27 @@ const studInfo = {
 };
 
 //using aray of objects
+//to access it
+//classDetail[0].name or classDetail[1].city....
+const classDetail = [
+    {
+        name: "Aman",
+        grade: "A",
+        city: "Delhi"
+    },
+    {
+        name: "Naina",
+        grade: "A+",
+        city: "Lucknow"
+    },
+    {
+        name: "Rohit",
+        grade: "B+",
+        city: "Bangalore"
+    },
+    {
+        name: "Vijay",
+        grade: "B",
+        city: "Pune"
+    }
+];
