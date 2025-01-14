@@ -103,9 +103,11 @@ const classDetail = [
     }
 ];
 
+//__________________________________________________________________________
 //Math Object -> collection of all mathematical properties and methods.
 // Math.abs(n) gives absolute value for a Number
 // Math.pow(a, b) power method
 // Math.floor(n) gives round off of the number(nearest smallest integer value)
 // Math.ceil(n) gives round off of the largest integer number(opposite of floor)
 // Math.random() gives any random number between 0 -1 in the given range by the user, most used in JS.
+//__________________________________________________________________________________________
