@@ -102,3 +102,9 @@ const classDetail = [
         city: "Pune"
     }
 ];
+
+//Math Object 
+// Math.abs(n) gives absolute value for a Number
+// Math.pow(a, b) power method
+Math.floor(n) gives round off of the number(nearest smallest integer value)
+Math.ceil(n) gives round off of the largest integer number(opposite of floor)
