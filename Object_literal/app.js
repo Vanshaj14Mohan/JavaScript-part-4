@@ -78,7 +78,7 @@ const studInfo = {
 };
 
 //using aray of objects
-//to access it
+//to access it -> classDetail[0],  classDetail[1], classDetail[2], classDetail[3]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 //classDetail[0].name or classDetail[1].city....
 const classDetail = [
     {
