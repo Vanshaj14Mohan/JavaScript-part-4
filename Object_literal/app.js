@@ -106,5 +106,6 @@ const classDetail = [
 //Math Object 
 // Math.abs(n) gives absolute value for a Number
 // Math.pow(a, b) power method
-Math.floor(n) gives round off of the number(nearest smallest integer value)
-Math.ceil(n) gives round off of the largest integer number(opposite of floor)
+// Math.floor(n) gives round off of the number(nearest smallest integer value)
+// Math.ceil(n) gives round off of the largest integer number(opposite of floor)
+// Math.random(n) gives any random number in the given range by the user
