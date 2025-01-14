@@ -103,7 +103,7 @@ const classDetail = [
     }
 ];
 
-//Math Object 
+//Math Object -> collection of all mathematical properties and methods.
 // Math.abs(n) gives absolute value for a Number
 // Math.pow(a, b) power method
 // Math.floor(n) gives round off of the number(nearest smallest integer value)
