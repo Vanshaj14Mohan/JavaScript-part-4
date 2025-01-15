@@ -112,4 +112,7 @@ const classDetail = [
 // Math.random() gives any random number between 0 -1 in the given range by the user, most used in JS.
 //__________________________________________________________________________________________
 
-//creating random integers
+//creating random integers, create random integer from 1 to 10
+//code 
+//Math.floor(Math.random() * 10) + 1; -> + 1 so that it can print till 10 as last digit is excluded, ie 0 -10
+
