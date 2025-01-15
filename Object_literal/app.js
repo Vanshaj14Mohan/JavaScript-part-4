@@ -116,3 +116,15 @@ const classDetail = [
 //code 
 //Math.floor(Math.random() * 10) + 1; -> + 1 so that it can print till 10 as last digit is excluded, ie 0 -10
 
+//Questions
+//Generate random number between 1-100
+let random = Math.floor(Math.random()* 100) + 1;
+console.log(random);
+
+//Generate random number between 1-5
+let ranNum = Math.floor(Math.random()* 5) + 1;
+console.log(ranNum);
+
+//And to print any number from agiven range
+let randNum = Math.floor(Math.random() * 5) + 21;
+console.log(randNum)
