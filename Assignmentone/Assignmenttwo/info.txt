@@ -1,0 +1,3 @@
+Create an object representing a car that stores the following properties for the car:
+Name, Model, Color
+Print the car name

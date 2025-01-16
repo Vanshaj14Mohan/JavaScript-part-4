@@ -1,0 +1,2 @@
+Create an object person with their name, age and city, Edit the city's original value to change it to "New York.
+Add a new property country and set it to the United States.
