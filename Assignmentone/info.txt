@@ -1,0 +1,1 @@
+Create a program that generates a random number representing a dice roll. [The numbers should be between 1-6]
